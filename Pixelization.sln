@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixelization", "Pixelization.csproj", "{BDB3BBCF-6850-49AD-998A-90A2EFFDBDBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB3BBCF-6850-49AD-998A-90A2EFFDBDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB3BBCF-6850-49AD-998A-90A2EFFDBDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB3BBCF-6850-49AD-998A-90A2EFFDBDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB3BBCF-6850-49AD-998A-90A2EFFDBDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14E224DB-AEBC-4456-85D1-09AB99331F64}
+	EndGlobalSection
+EndGlobal

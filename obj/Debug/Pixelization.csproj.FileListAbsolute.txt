@@ -1,0 +1,12 @@
+C:\Users\mrbio\Desktop\projects\windows\Pixelization\bin\Debug\Pixelization.exe.config
+C:\Users\mrbio\Desktop\projects\windows\Pixelization\bin\Debug\Pixelization.exe
+C:\Users\mrbio\Desktop\projects\windows\Pixelization\bin\Debug\Pixelization.pdb
+C:\Users\mrbio\Desktop\projects\windows\Pixelization\obj\Debug\Pixelization.csproj.AssemblyReference.cache
+C:\Users\mrbio\Desktop\projects\windows\Pixelization\obj\Debug\Pixelization.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrbio\Desktop\projects\windows\Pixelization\obj\Debug\Pixelization.Form1.resources
+C:\Users\mrbio\Desktop\projects\windows\Pixelization\obj\Debug\Pixelization.Properties.Resources.resources
+C:\Users\mrbio\Desktop\projects\windows\Pixelization\obj\Debug\Pixelization.csproj.GenerateResource.cache
+C:\Users\mrbio\Desktop\projects\windows\Pixelization\obj\Debug\Pixelization.csproj.CoreCompileInputs.cache
+C:\Users\mrbio\Desktop\projects\windows\Pixelization\obj\Debug\Pixelization.exe
+C:\Users\mrbio\Desktop\projects\windows\Pixelization\obj\Debug\Pixelization.pdb
+C:\Users\mrbio\Desktop\projects\windows\Pixelization\obj\Debug\Pixelization.watch.resources
